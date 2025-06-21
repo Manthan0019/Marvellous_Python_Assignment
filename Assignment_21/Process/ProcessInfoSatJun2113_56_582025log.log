@@ -1,0 +1,727 @@
+--------------------------------------------------------------------------------
+		Tihs is a cureent running process log file 
+		This log file is created at : Sat Jun 21 13:56:58 2025
+--------------------------------------------------------------------------------
+{'username': 'root', 'pid': 0, 'name': 'kernel_task'} 
+
+{'username': 'root', 'pid': 1, 'name': 'launchd'} 
+
+{'username': 'root', 'pid': 301, 'name': 'logd'} 
+
+{'username': 'root', 'pid': 303, 'name': 'UserEventAgent'} 
+
+{'username': 'root', 'pid': 305, 'name': 'fseventsd'} 
+
+{'username': 'root', 'pid': 306, 'name': 'mediaremoted'} 
+
+{'username': 'root', 'pid': 309, 'name': 'systemstats'} 
+
+{'username': 'root', 'pid': 312, 'name': 'configd'} 
+
+{'username': 'root', 'pid': 314, 'name': 'powerd'} 
+
+{'username': 'root', 'pid': 315, 'name': 'IOMFB_bics_daemo'} 
+
+{'username': 'root', 'pid': 319, 'name': 'remoted'} 
+
+{'username': '_corespeechd', 'pid': 323, 'name': 'corespeechd_syst'} 
+
+{'username': 'root', 'pid': 325, 'name': 'watchdogd'} 
+
+{'username': 'root', 'pid': 329, 'name': 'mds'} 
+
+{'username': 'root', 'pid': 331, 'name': 'kernelmanagerd'} 
+
+{'username': 'root', 'pid': 332, 'name': 'diskarbitrationd'} 
+
+{'username': 'root', 'pid': 335, 'name': 'coreduetd'} 
+
+{'username': 'root', 'pid': 336, 'name': 'syslogd'} 
+
+{'username': 'root', 'pid': 339, 'name': 'thermalmonitord'} 
+
+{'username': 'root', 'pid': 340, 'name': 'opendirectoryd'} 
+
+{'username': 'root', 'pid': 342, 'name': 'apsd'} 
+
+{'username': 'root', 'pid': 343, 'name': 'launchservicesd'} 
+
+{'username': '_timed', 'pid': 344, 'name': 'timed'} 
+
+{'username': '_usbmuxd', 'pid': 345, 'name': 'usbmuxd'} 
+
+{'username': 'root', 'pid': 346, 'name': 'securityd'} 
+
+{'username': '_locationd', 'pid': 348, 'name': 'locationd'} 
+
+{'username': 'root', 'pid': 351, 'name': 'autofsd'} 
+
+{'username': 'root', 'pid': 352, 'name': 'dasd'} 
+
+{'username': '_distnote', 'pid': 354, 'name': 'distnoted'} 
+
+{'username': 'root', 'pid': 358, 'name': 'logind'} 
+
+{'username': 'root', 'pid': 359, 'name': 'revisiond'} 
+
+{'username': 'root', 'pid': 360, 'name': 'KernelEventAgent'} 
+
+{'username': 'root', 'pid': 363, 'name': 'bluetoothd'} 
+
+{'username': 'root', 'pid': 364, 'name': 'notifyd'} 
+
+{'username': 'root', 'pid': 366, 'name': 'corebrightnessd'} 
+
+{'username': 'root', 'pid': 367, 'name': 'AirPlayXPCHelper'} 
+
+{'username': 'root', 'pid': 368, 'name': 'com.apple.cmio.r'} 
+
+{'username': 'root', 'pid': 371, 'name': 'WindowServer'} 
+
+{'username': 'root', 'pid': 372, 'name': 'tccd'} 
+
+{'username': 'root', 'pid': 373, 'name': 'cfprefsd'} 
+
+{'username': 'root', 'pid': 374, 'name': 'loginwindow'} 
+
+{'username': 'root', 'pid': 375, 'name': 'runningboardd'} 
+
+{'username': 'root', 'pid': 376, 'name': 'contextstored'} 
+
+{'username': 'root', 'pid': 378, 'name': 'coreservicesd'} 
+
+{'username': 'root', 'pid': 379, 'name': 'lsd'} 
+
+{'username': 'root', 'pid': 380, 'name': 'airportd'} 
+
+{'username': '_analyticsd', 'pid': 381, 'name': 'analyticsd'} 
+
+{'username': '_coreaudiod', 'pid': 383, 'name': 'coreaudiod'} 
+
+{'username': '_trustd', 'pid': 387, 'name': 'trustd'} 
+
+{'username': '_nsurlsessiond', 'pid': 393, 'name': 'nsurlsessiond'} 
+
+{'username': 'root', 'pid': 398, 'name': 'apfsd'} 
+
+{'username': 'root', 'pid': 402, 'name': 'biometrickitd'} 
+
+{'username': 'root', 'pid': 403, 'name': 'systemstatusd'} 
+
+{'username': 'root', 'pid': 406, 'name': 'eligibilityd'} 
+
+{'username': 'root', 'pid': 409, 'name': 'mobileassetd'} 
+
+{'username': '_networkd', 'pid': 411, 'name': 'symptomsd'} 
+
+{'username': 'root', 'pid': 412, 'name': 'authd'} 
+
+{'username': 'root', 'pid': 413, 'name': 'distnoted'} 
+
+{'username': '_coreaudiod', 'pid': 415, 'name': 'distnoted'} 
+
+{'username': '_biome', 'pid': 416, 'name': 'biomed'} 
+
+{'username': '_windowserver', 'pid': 418, 'name': 'distnoted'} 
+
+{'username': 'root', 'pid': 420, 'name': 'socketfilterfw'} 
+
+{'username': '_locationd', 'pid': 430, 'name': 'com.apple.geod'} 
+
+{'username': '_locationd', 'pid': 431, 'name': 'distnoted'} 
+
+{'username': 'root', 'pid': 432, 'name': 'syspolicyd'} 
+
+{'username': '_mdnsresponder', 'pid': 434, 'name': 'mDNSResponder'} 
+
+{'username': 'root', 'pid': 443, 'name': 'audioclocksyncd'} 
+
+{'username': 'root', 'pid': 446, 'name': 'com.apple.CodeSi'} 
+
+{'username': 'root', 'pid': 460, 'name': 'mDNSResponderHel'} 
+
+{'username': '_locationd', 'pid': 479, 'name': 'trustd'} 
+
+{'username': '_cmiodalassistants', 'pid': 483, 'name': 'distnoted'} 
+
+{'username': '_driverkit', 'pid': 491, 'name': 'com.apple.Driver'} 
+
+{'username': '_driverkit', 'pid': 492, 'name': 'com.apple.Driver'} 
+
+{'username': '_driverkit', 'pid': 493, 'name': 'com.apple.AppleU'} 
+
+{'username': '_modelmanagerd', 'pid': 501, 'name': 'modelmanagerd'} 
+
+{'username': '_softwareupdate', 'pid': 504, 'name': 'distnoted'} 
+
+{'username': 'root', 'pid': 508, 'name': 'searchpartyd'} 
+
+{'username': '_cmiodalassistants', 'pid': 509, 'name': 'appleh13camerad'} 
+
+{'username': '_cmiodalassistants', 'pid': 510, 'name': 'cameracaptured'} 
+
+{'username': 'root', 'pid': 511, 'name': 'securityd_system'} 
+
+{'username': '_cmiodalassistants', 'pid': 512, 'name': 'UVCAssistant'} 
+
+{'username': 'root', 'pid': 513, 'name': 'WirelessRadioMan'} 
+
+{'username': '_appleevents', 'pid': 514, 'name': 'appleeventsd'} 
+
+{'username': 'root', 'pid': 515, 'name': 'findmybeaconingd'} 
+
+{'username': 'root', 'pid': 516, 'name': 'suhelperd'} 
+
+{'username': 'root', 'pid': 518, 'name': 'backupd'} 
+
+{'username': 'root', 'pid': 525, 'name': 'mds_stores'} 
+
+{'username': '_nsurlsessiond', 'pid': 527, 'name': 'distnoted'} 
+
+{'username': '_spotlight', 'pid': 532, 'name': 'distnoted'} 
+
+{'username': 'root', 'pid': 536, 'name': 'coreauthd'} 
+
+{'username': 'manthansasane', 'pid': 537, 'name': 'distnoted'} 
+
+{'username': 'manthansasane', 'pid': 538, 'name': 'cfprefsd'} 
+
+{'username': 'manthansasane', 'pid': 541, 'name': 'UserEventAgent'} 
+
+{'username': 'manthansasane', 'pid': 547, 'name': 'universalaccessd'} 
+
+{'username': 'manthansasane', 'pid': 548, 'name': 'knowledge-agent'} 
+
+{'username': 'manthansasane', 'pid': 549, 'name': 'WindowManager'} 
+
+{'username': 'manthansasane', 'pid': 550, 'name': 'talagentd'} 
+
+{'username': 'manthansasane', 'pid': 551, 'name': 'pboard'} 
+
+{'username': 'manthansasane', 'pid': 552, 'name': 'Dock'} 
+
+{'username': 'manthansasane', 'pid': 553, 'name': 'ControlCenter'} 
+
+{'username': 'manthansasane', 'pid': 555, 'name': 'SystemUIServer'} 
+
+{'username': 'manthansasane', 'pid': 557, 'name': 'Finder'} 
+
+{'username': 'manthansasane', 'pid': 559, 'name': 'lsd'} 
+
+{'username': 'manthansasane', 'pid': 564, 'name': 'secd'} 
+
+{'username': 'manthansasane', 'pid': 566, 'name': 'dmd'} 
+
+{'username': 'manthansasane', 'pid': 569, 'name': 'secinitd'} 
+
+{'username': 'manthansasane', 'pid': 573, 'name': 'trustd'} 
+
+{'username': '_appleevents', 'pid': 574, 'name': 'distnoted'} 
+
+{'username': 'manthansasane', 'pid': 575, 'name': 'WallpaperAgent'} 
+
+{'username': 'root', 'pid': 576, 'name': 'filecoordination'} 
+
+{'username': 'root', 'pid': 579, 'name': 'automountd'} 
+
+{'username': 'manthansasane', 'pid': 580, 'name': 'com.apple.hiservices-xpcservice'} 
+
+{'username': 'manthansasane', 'pid': 581, 'name': 'sharedfilelistd'} 
+
+{'username': 'manthansasane', 'pid': 582, 'name': 'containermanagerd'} 
+
+{'username': 'manthansasane', 'pid': 583, 'name': 'usernotificationsd'} 
+
+{'username': 'manthansasane', 'pid': 584, 'name': 'CoreLocationAgent'} 
+
+{'username': 'manthansasane', 'pid': 585, 'name': 'sociallayerd'} 
+
+{'username': 'manthansasane', 'pid': 586, 'name': 'suggestd'} 
+
+{'username': 'manthansasane', 'pid': 587, 'name': 'tccd'} 
+
+{'username': 'manthansasane', 'pid': 588, 'name': 'calaccessd'} 
+
+{'username': 'manthansasane', 'pid': 589, 'name': 'callservicesd'} 
+
+{'username': 'manthansasane', 'pid': 591, 'name': 'fileproviderd'} 
+
+{'username': 'manthansasane', 'pid': 592, 'name': 'pkd'} 
+
+{'username': 'manthansasane', 'pid': 593, 'name': 'AMPDeviceDiscoveryAgent'} 
+
+{'username': 'manthansasane', 'pid': 595, 'name': 'ContinuityCaptureAgent'} 
+
+{'username': 'manthansasane', 'pid': 597, 'name': 'identityservicesd'} 
+
+{'username': 'manthansasane', 'pid': 598, 'name': 'ViewBridgeAuxiliary'} 
+
+{'username': 'manthansasane', 'pid': 599, 'name': 'fontd'} 
+
+{'username': 'manthansasane', 'pid': 601, 'name': 'donotdisturbd'} 
+
+{'username': 'manthansasane', 'pid': 603, 'name': 'audioaccessoryd'} 
+
+{'username': 'manthansasane', 'pid': 605, 'name': 'rapportd'} 
+
+{'username': 'manthansasane', 'pid': 610, 'name': 'fontworker'} 
+
+{'username': 'manthansasane', 'pid': 611, 'name': 'bluetoothuserd'} 
+
+{'username': 'manthansasane', 'pid': 612, 'name': 'accountsd'} 
+
+{'username': 'manthansasane', 'pid': 613, 'name': 'ctkd'} 
+
+{'username': 'manthansasane', 'pid': 614, 'name': 'WallpaperImageExtension'} 
+
+{'username': '_ctkd', 'pid': 620, 'name': 'ctkd'} 
+
+{'username': 'manthansasane', 'pid': 621, 'name': 'coreauthd'} 
+
+{'username': 'manthansasane', 'pid': 622, 'name': 'deleted'} 
+
+{'username': '_oahd', 'pid': 623, 'name': 'oahd'} 
+
+{'username': 'manthansasane', 'pid': 624, 'name': 'cloudd'} 
+
+{'username': 'manthansasane', 'pid': 626, 'name': 'transparencyd'} 
+
+{'username': 'root', 'pid': 628, 'name': 'wifip2pd'} 
+
+{'username': 'manthansasane', 'pid': 629, 'name': 'BiomeAgent'} 
+
+{'username': '_nearbyd', 'pid': 632, 'name': 'nearbyd'} 
+
+{'username': 'manthansasane', 'pid': 634, 'name': 'usernoted'} 
+
+{'username': 'manthansasane', 'pid': 635, 'name': 'useractivityd'} 
+
+{'username': 'manthansasane', 'pid': 636, 'name': 'com.apple.dock.extra'} 
+
+{'username': 'manthansasane', 'pid': 637, 'name': 'nsurlsessiond'} 
+
+{'username': 'manthansasane', 'pid': 638, 'name': 'routined'} 
+
+{'username': 'manthansasane', 'pid': 639, 'name': 'NotificationCenter'} 
+
+{'username': 'manthansasane', 'pid': 640, 'name': 'heard'} 
+
+{'username': 'manthansasane', 'pid': 641, 'name': 'corespeechd'} 
+
+{'username': 'manthansasane', 'pid': 643, 'name': 'ContextStoreAgent'} 
+
+{'username': 'manthansasane', 'pid': 646, 'name': 'imklaunchagent'} 
+
+{'username': 'manthansasane', 'pid': 648, 'name': 'Siri'} 
+
+{'username': 'manthansasane', 'pid': 649, 'name': 'icdd'} 
+
+{'username': 'manthansasane', 'pid': 653, 'name': 'sharingd'} 
+
+{'username': 'manthansasane', 'pid': 655, 'name': 'AirPlayUIAgent'} 
+
+{'username': 'manthansasane', 'pid': 656, 'name': 'imagent'} 
+
+{'username': 'manthansasane', 'pid': 657, 'name': 'diagnostics_agent'} 
+
+{'username': 'manthansasane', 'pid': 658, 'name': 'TextInputMenuAgent'} 
+
+{'username': 'root', 'pid': 663, 'name': 'ctkahp'} 
+
+{'username': 'manthansasane', 'pid': 668, 'name': 'com.apple.CloudDocs.iCloudDriveFileProvider'} 
+
+{'username': 'manthansasane', 'pid': 670, 'name': 'chronod'} 
+
+{'username': 'manthansasane', 'pid': 672, 'name': 'Spotlight'} 
+
+{'username': 'manthansasane', 'pid': 675, 'name': 'ctkahp'} 
+
+{'username': 'root', 'pid': 678, 'name': 'awdd'} 
+
+{'username': 'manthansasane', 'pid': 679, 'name': 'corespotlightd'} 
+
+{'username': 'manthansasane', 'pid': 681, 'name': 'WiFiAgent'} 
+
+{'username': 'manthansasane', 'pid': 685, 'name': 'StatusKitAgent'} 
+
+{'username': 'manthansasane', 'pid': 687, 'name': 'extensionkitservice'} 
+
+{'username': 'manthansasane', 'pid': 690, 'name': 'CursorUIViewService'} 
+
+{'username': 'manthansasane', 'pid': 692, 'name': 'IMDPersistenceAgent'} 
+
+{'username': 'manthansasane', 'pid': 693, 'name': 'homed'} 
+
+{'username': 'manthansasane', 'pid': 694, 'name': 'familycircled'} 
+
+{'username': 'manthansasane', 'pid': 695, 'name': 'lockoutagent'} 
+
+{'username': 'manthansasane', 'pid': 699, 'name': 'akd'} 
+
+{'username': 'manthansasane', 'pid': 701, 'name': 'contactsd'} 
+
+{'username': 'manthansasane', 'pid': 706, 'name': 'mediaremoteagent'} 
+
+{'username': 'manthansasane', 'pid': 708, 'name': 'avconferenced'} 
+
+{'username': 'manthansasane', 'pid': 710, 'name': 'maild'} 
+
+{'username': 'manthansasane', 'pid': 712, 'name': 'PAH_Extension'} 
+
+{'username': 'manthansasane', 'pid': 713, 'name': 'CalendarWidgetExtension'} 
+
+{'username': 'manthansasane', 'pid': 714, 'name': 'searchpartyuseragent'} 
+
+{'username': 'manthansasane', 'pid': 716, 'name': 'CallHistoryPluginHelper'} 
+
+{'username': 'manthansasane', 'pid': 717, 'name': 'networkserviceproxy'} 
+
+{'username': 'manthansasane', 'pid': 721, 'name': 'assistantd'} 
+
+{'username': 'manthansasane', 'pid': 722, 'name': 'WorldClockWidget'} 
+
+{'username': 'root', 'pid': 724, 'name': 'aned'} 
+
+{'username': 'manthansasane', 'pid': 725, 'name': 'StocksWidget'} 
+
+{'username': '_fpsd', 'pid': 727, 'name': 'adid'} 
+
+{'username': 'manthansasane', 'pid': 729, 'name': 'BatteriesAvocadoWidgetExtension'} 
+
+{'username': 'manthansasane', 'pid': 733, 'name': 'seserviced'} 
+
+{'username': '_accessoryupdater', 'pid': 740, 'name': 'distnoted'} 
+
+{'username': 'manthansasane', 'pid': 741, 'name': 'ScreenTimeWidgetExtension'} 
+
+{'username': 'manthansasane', 'pid': 743, 'name': 'commerce'} 
+
+{'username': 'manthansasane', 'pid': 745, 'name': 'UIKitSystem'} 
+
+{'username': 'manthansasane', 'pid': 747, 'name': 'linkd'} 
+
+{'username': 'manthansasane', 'pid': 751, 'name': 'ScopedBookmarkAgent'} 
+
+{'username': 'manthansasane', 'pid': 753, 'name': 'UniversalControl'} 
+
+{'username': 'manthansasane', 'pid': 755, 'name': 'FindMyWidgetItems'} 
+
+{'username': 'root', 'pid': 756, 'name': 'wifianalyticsd'} 
+
+{'username': 'manthansasane', 'pid': 758, 'name': 'PodcastsWidget'} 
+
+{'username': 'manthansasane', 'pid': 760, 'name': 'HomeEnergyWidgetsExtension'} 
+
+{'username': 'manthansasane', 'pid': 762, 'name': 'ShortcutsWidgetExtension'} 
+
+{'username': 'manthansasane', 'pid': 763, 'name': 'RemindersWidgetExtension'} 
+
+{'username': 'manthansasane', 'pid': 765, 'name': 'HomeWidget'} 
+
+{'username': 'manthansasane', 'pid': 767, 'name': 'TipsWidgetExtension'} 
+
+{'username': 'manthansasane', 'pid': 768, 'name': 'SafariWidgetExtension'} 
+
+{'username': 'manthansasane', 'pid': 770, 'name': 'com.apple.Notes.WidgetExtension'} 
+
+{'username': 'manthansasane', 'pid': 771, 'name': 'PeopleWidget_macOSExtension'} 
+
+{'username': 'manthansasane', 'pid': 773, 'name': 'PhotosReliveWidget'} 
+
+{'username': 'manthansasane', 'pid': 774, 'name': 'FindMyWidgetPeople'} 
+
+{'username': '_applepay', 'pid': 784, 'name': 'distnoted'} 
+
+{'username': '_fpsd', 'pid': 785, 'name': 'fairplayd'} 
+
+{'username': '_gamecontrollerd', 'pid': 788, 'name': 'distnoted'} 
+
+{'username': 'root', 'pid': 790, 'name': 'countryd'} 
+
+{'username': 'root', 'pid': 793, 'name': 'systemstats'} 
+
+{'username': 'manthansasane', 'pid': 800, 'name': 'appstoreagent'} 
+
+{'username': '_driverkit', 'pid': 810, 'name': 'IOUserBluetoothS'} 
+
+{'username': '_driverkit', 'pid': 812, 'name': 'IOUserBluetoothS'} 
+
+{'username': 'manthansasane', 'pid': 815, 'name': 'mdbulkimport'} 
+
+{'username': 'manthansasane', 'pid': 827, 'name': 'Electron'} 
+
+{'username': 'manthansasane', 'pid': 831, 'name': 'siriinferenced'} 
+
+{'username': 'manthansasane', 'pid': 833, 'name': 'UsageTrackingAgent'} 
+
+{'username': 'root', 'pid': 842, 'name': 'gamepolicyd'} 
+
+{'username': 'manthansasane', 'pid': 846, 'name': 'chrome_crashpad_handler'} 
+
+{'username': 'manthansasane', 'pid': 849, 'name': 'Code Helper (GPU)'} 
+
+{'username': 'manthansasane', 'pid': 850, 'name': 'Code Helper'} 
+
+{'username': 'manthansasane', 'pid': 852, 'name': 'Code Helper (Renderer)'} 
+
+{'username': 'manthansasane', 'pid': 912, 'name': 'Code Helper'} 
+
+{'username': 'manthansasane', 'pid': 913, 'name': 'Code Helper'} 
+
+{'username': 'manthansasane', 'pid': 915, 'name': 'Code Helper'} 
+
+{'username': 'manthansasane', 'pid': 916, 'name': 'milod'} 
+
+{'username': 'manthansasane', 'pid': 978, 'name': 'zsh'} 
+
+{'username': 'manthansasane', 'pid': 984, 'name': 'zsh'} 
+
+{'username': 'manthansasane', 'pid': 986, 'name': 'zsh'} 
+
+{'username': 'manthansasane', 'pid': 988, 'name': 'zsh'} 
+
+{'username': 'manthansasane', 'pid': 991, 'name': 'zsh'} 
+
+{'username': 'manthansasane', 'pid': 1505, 'name': 'siriknowledged'} 
+
+{'username': 'manthansasane', 'pid': 1520, 'name': 'CalendarIntentsExtension'} 
+
+{'username': 'root', 'pid': 1521, 'name': 'wifivelocityd'} 
+
+{'username': 'manthansasane', 'pid': 1522, 'name': 'SafariLinkExtension'} 
+
+{'username': 'manthansasane', 'pid': 1525, 'name': 'MessagesActionExtension'} 
+
+{'username': 'root', 'pid': 1573, 'name': 'SubmitDiagInfo'} 
+
+{'username': 'root', 'pid': 1577, 'name': 'CrashReporterSup'} 
+
+{'username': 'manthansasane', 'pid': 1594, 'name': 'spotlightknowledged'} 
+
+{'username': 'manthansasane', 'pid': 1692, 'name': 'SiriNCService'} 
+
+{'username': 'manthansasane', 'pid': 3319, 'name': 'duetexpertd'} 
+
+{'username': 'manthansasane', 'pid': 3342, 'name': 'SetStoreUpdateService'} 
+
+{'username': 'manthansasane', 'pid': 3347, 'name': 'DiskUnmountWatcher'} 
+
+{'username': 'manthansasane', 'pid': 3351, 'name': 'AppPredictionIntentsHelperService'} 
+
+{'username': '_audiomxd', 'pid': 3356, 'name': 'audiomxd'} 
+
+{'username': 'manthansasane', 'pid': 3374, 'name': 'ShipIt'} 
+
+{'username': '_rmd', 'pid': 3393, 'name': 'distnoted'} 
+
+{'username': 'manthansasane', 'pid': 3405, 'name': 'AppleSpell'} 
+
+{'username': 'manthansasane', 'pid': 3410, 'name': 'dataaccessd'} 
+
+{'username': 'manthansasane', 'pid': 3411, 'name': 'SafariBookmarksSyncAgent'} 
+
+{'username': 'root', 'pid': 3601, 'name': 'com.apple.geod'} 
+
+{'username': 'manthansasane', 'pid': 3645, 'name': 'ServiceExtension'} 
+
+{'username': 'manthansasane', 'pid': 3667, 'name': 'UserNotificationCenter'} 
+
+{'username': '_netbios', 'pid': 3687, 'name': 'netbiosd'} 
+
+{'username': 'manthansasane', 'pid': 3769, 'name': 'peopled'} 
+
+{'username': 'manthansasane', 'pid': 3881, 'name': 'mdwrite'} 
+
+{'username': 'manthansasane', 'pid': 3913, 'name': 'com.apple.appkit.xpc.openAndSavePanelService'} 
+
+{'username': 'manthansasane', 'pid': 3923, 'name': 'zsh'} 
+
+{'username': 'manthansasane', 'pid': 4046, 'name': 'rcd'} 
+
+{'username': 'manthansasane', 'pid': 4055, 'name': 'passd'} 
+
+{'username': 'manthansasane', 'pid': 4076, 'name': 'Preview'} 
+
+{'username': 'manthansasane', 'pid': 4078, 'name': 'com.apple.appkit.xpc.openAndSavePanelService'} 
+
+{'username': 'manthansasane', 'pid': 4080, 'name': 'mscamerad-xpc'} 
+
+{'username': 'manthansasane', 'pid': 4081, 'name': 'ptpcamerad'} 
+
+{'username': 'manthansasane', 'pid': 4101, 'name': 'Code Helper (Plugin)'} 
+
+{'username': 'manthansasane', 'pid': 4102, 'name': 'pet'} 
+
+{'username': 'manthansasane', 'pid': 4105, 'name': 'Code Helper (Plugin)'} 
+
+{'username': 'manthansasane', 'pid': 4107, 'name': 'zsh'} 
+
+{'username': 'manthansasane', 'pid': 4190, 'name': 'Code Helper (Plugin)'} 
+
+{'username': 'manthansasane', 'pid': 4261, 'name': 'R'} 
+
+{'username': 'manthansasane', 'pid': 4262, 'name': 'R'} 
+
+{'username': 'manthansasane', 'pid': 4287, 'name': 'R'} 
+
+{'username': 'manthansasane', 'pid': 4288, 'name': 'R'} 
+
+{'username': 'manthansasane', 'pid': 4289, 'name': 'R'} 
+
+{'username': 'manthansasane', 'pid': 4290, 'name': 'R'} 
+
+{'username': 'manthansasane', 'pid': 4291, 'name': 'R'} 
+
+{'username': 'manthansasane', 'pid': 4292, 'name': 'R'} 
+
+{'username': 'manthansasane', 'pid': 4450, 'name': 'Terminal'} 
+
+{'username': 'manthansasane', 'pid': 4451, 'name': 'login'} 
+
+{'username': 'manthansasane', 'pid': 4452, 'name': 'zsh'} 
+
+{'username': 'root', 'pid': 4559, 'name': 'PerfPowerService'} 
+
+{'username': 'root', 'pid': 4575, 'name': 'simdiskimaged'} 
+
+{'username': '_diskimagesiod', 'pid': 4577, 'name': 'diskimagesiod'} 
+
+{'username': '_diskimagesiod', 'pid': 4588, 'name': 'diskimagesiod'} 
+
+{'username': 'manthansasane', 'pid': 4597, 'name': 'SimLaunchHost.arm64'} 
+
+{'username': 'manthansasane', 'pid': 4742, 'name': 'Google Chrome'} 
+
+{'username': 'manthansasane', 'pid': 4744, 'name': 'chrome_crashpad_handler'} 
+
+{'username': 'manthansasane', 'pid': 4748, 'name': 'Google Chrome Helper (GPU)'} 
+
+{'username': 'manthansasane', 'pid': 4749, 'name': 'Google Chrome Helper'} 
+
+{'username': 'manthansasane', 'pid': 4750, 'name': 'Google Chrome Helper'} 
+
+{'username': 'manthansasane', 'pid': 4930, 'name': 'Google Chrome Helper (Renderer)'} 
+
+{'username': 'manthansasane', 'pid': 4967, 'name': 'Google Chrome Helper (Renderer)'} 
+
+{'username': 'manthansasane', 'pid': 5003, 'name': 'IMAutomaticHistoryDeletionAgent'} 
+
+{'username': 'manthansasane', 'pid': 5214, 'name': 'WeatherWidget'} 
+
+{'username': 'manthansasane', 'pid': 5278, 'name': 'Keychain Circle Notification'} 
+
+{'username': 'manthansasane', 'pid': 5293, 'name': 'AppSSOAgent'} 
+
+{'username': 'root', 'pid': 5341, 'name': 'smd'} 
+
+{'username': 'manthansasane', 'pid': 5348, 'name': 'SoftwareUpdateNotificationManager'} 
+
+{'username': 'manthansasane', 'pid': 5367, 'name': 'keyboardservicesd'} 
+
+{'username': 'manthansasane', 'pid': 5434, 'name': 'coreautha'} 
+
+{'username': 'root', 'pid': 5435, 'name': 'storagekitd'} 
+
+{'username': 'root', 'pid': 5438, 'name': 'AppleCredentialM'} 
+
+{'username': 'root', 'pid': 5443, 'name': 'containermanager'} 
+
+{'username': 'manthansasane', 'pid': 5457, 'name': 'contentlinkingd'} 
+
+{'username': 'manthansasane', 'pid': 5459, 'name': 'AuthenticationServicesAgent'} 
+
+{'username': 'manthansasane', 'pid': 5460, 'name': 'keychainsharingmessagingd'} 
+
+{'username': 'manthansasane', 'pid': 5469, 'name': 'swcd'} 
+
+{'username': 'manthansasane', 'pid': 5477, 'name': 'SAExtensionOrchestrator'} 
+
+{'username': 'manthansasane', 'pid': 5478, 'name': 'extensionkitservice'} 
+
+{'username': 'manthansasane', 'pid': 5479, 'name': 'IFTelemetrySELFIngestor'} 
+
+{'username': 'manthansasane', 'pid': 5480, 'name': 'GMSSELFIngestor'} 
+
+{'username': 'manthansasane', 'pid': 5481, 'name': 'BiomeSELFIngestor'} 
+
+{'username': 'manthansasane', 'pid': 5482, 'name': 'IFTranscriptSELFIngestor'} 
+
+{'username': 'manthansasane', 'pid': 5483, 'name': 'ContextService'} 
+
+{'username': 'manthansasane', 'pid': 5484, 'name': 'ScreenTimeAgent'} 
+
+{'username': 'root', 'pid': 5485, 'name': 'ContextService'} 
+
+{'username': 'manthansasane', 'pid': 5486, 'name': 'FamilyControlsAgent'} 
+
+{'username': 'manthansasane', 'pid': 5487, 'name': 'ManagedSettingsAgent'} 
+
+{'username': 'root', 'pid': 5506, 'name': 'sysmond'} 
+
+{'username': '_applepay', 'pid': 5508, 'name': 'nfcd'} 
+
+{'username': '_applepay', 'pid': 5509, 'name': 'NFStorageServer'} 
+
+{'username': 'manthansasane', 'pid': 5510, 'name': 'Google Chrome Helper (Renderer)'} 
+
+{'username': 'manthansasane', 'pid': 5511, 'name': 'Google Chrome Helper (Renderer)'} 
+
+{'username': 'manthansasane', 'pid': 5513, 'name': 'Google Chrome Helper'} 
+
+{'username': 'manthansasane', 'pid': 5514, 'name': 'Google Chrome Helper (Plugin)'} 
+
+{'username': 'manthansasane', 'pid': 5516, 'name': 'AudioComponentRegistrar'} 
+
+{'username': 'manthansasane', 'pid': 5517, 'name': 'CarbonComponentScannerXPC'} 
+
+{'username': 'root', 'pid': 5518, 'name': 'ecosystemanalyti'} 
+
+{'username': 'manthansasane', 'pid': 5533, 'name': 'ndoagent'} 
+
+{'username': 'manthansasane', 'pid': 5535, 'name': 'feedbackd'} 
+
+{'username': 'manthansasane', 'pid': 5539, 'name': 'CredentialProviderExtensionHelper'} 
+
+{'username': 'root', 'pid': 5540, 'name': 'logd_helper'} 
+
+{'username': 'manthansasane', 'pid': 5542, 'name': 'MTLCompilerService'} 
+
+{'username': 'manthansasane', 'pid': 5543, 'name': 'MTLCompilerService'} 
+
+{'username': 'root', 'pid': 5544, 'name': 'online-auth-agen'} 
+
+{'username': 'manthansasane', 'pid': 5545, 'name': 'replayd'} 
+
+{'username': 'root', 'pid': 5546, 'name': 'idleassetsd'} 
+
+{'username': 'manthansasane', 'pid': 5550, 'name': 'CommCenter'} 
+
+{'username': 'root', 'pid': 5551, 'name': 'nehelper'} 
+
+{'username': 'manthansasane', 'pid': 5552, 'name': 'syncdefaultsd'} 
+
+{'username': 'root', 'pid': 5553, 'name': 'usermanagerd'} 
+
+{'username': 'manthansasane', 'pid': 5554, 'name': 'CloudTelemetryService'} 
+
+{'username': 'root', 'pid': 5555, 'name': 'osanalyticshelpe'} 
+
+{'username': 'manthansasane', 'pid': 5560, 'name': 'Google Chrome Helper (Renderer)'} 
+
+{'username': 'manthansasane', 'pid': 5561, 'name': 'Google Chrome Helper (Renderer)'} 
+
+{'username': 'manthansasane', 'pid': 5563, 'name': 'Google Chrome Helper (Renderer)'} 
+
+{'username': 'manthansasane', 'pid': 5565, 'name': 'pbs'} 
+
+{'username': 'manthansasane', 'pid': 5567, 'name': 'mdworker_shared'} 
+
+{'username': 'manthansasane', 'pid': 5568, 'name': 'Python'} 
+
+{'username': 'root', 'pid': 5569, 'name': 'amfid'} 
+
+{'username': 'manthansasane', 'pid': 5570, 'name': 'mlhostd'} 
+
+{'username': 'manthansasane', 'pid': 5571, 'name': 'mdworker_shared'} 
+
+--------------------------------------------------------------------------------
